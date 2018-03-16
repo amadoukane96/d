@@ -1,3 +1,4 @@
+Jeu dicewars développé en C++.
 L'équipe :
 
 MOHAMED MOUSSA El Mokhtar
